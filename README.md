@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amittt
 - 👀 I’m interested in Designing and Editing
 - 🌱 I’m currently learning graphic, illustration and programming languages 
-- 📫 How to reach me email :- amitbhakuni18@gmail.com 
+- 📫 How to reach me amitbhakuni18@gmail.com 
 
 <!---
 amitbhakunii/amitbhakunii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
